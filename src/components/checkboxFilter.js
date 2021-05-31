@@ -5,7 +5,6 @@ function checkboxFilter({ handleFilter }) {
   return (
     <div className="filterContainer">
       <div className="filterCard">
-        <div className="heading">Select your windows</div>
 
         <div className="checkBoxContainer">
           <div className="row">
