@@ -18,11 +18,11 @@ function checkboxFilter({ handleFilter }) {
                   name="front"
                 />
                 <label
-                  className="form-check-label messageSmall"
-                  htmlFor="flexSwitchCheckDefault"
+                  className="form-check-label messageSmall"         
                 >
                   Front Entrance
                 </label>
+                  <p>12 accessiores</p>
               </div>
             </div>
 
@@ -36,11 +36,11 @@ function checkboxFilter({ handleFilter }) {
                   name="right"
                 />
                 <label
-                  className="form-check-label messageSmall"
-                  htmlFor="flexSwitchCheckDefault"
+                  className="form-check-label messageSmall"                
                 >
                   Right Shopping Window
                 </label>
+                  <p>22 accessiores</p>
               </div>
             </div>
           </div>
@@ -56,10 +56,11 @@ function checkboxFilter({ handleFilter }) {
                 />
                 <label
                   className="form-check-label messageSmall"
-                  htmlFor="flexSwitchCheckDefault"
+                 
                 >
                   Left Shopping Window
                 </label>
+                  <p>20 accessiores</p>
               </div>
             </div>
 
@@ -74,10 +75,11 @@ function checkboxFilter({ handleFilter }) {
                 />
                 <label
                   className="form-check-label messageSmall"
-                  htmlFor="flexSwitchCheckDefault"
+                 
                 >
                   Shoe Wall
                 </label>
+                  <p>30 accessiores</p>
               </div>
             </div>
           </div>
